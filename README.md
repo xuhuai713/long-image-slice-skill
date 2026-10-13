@@ -66,7 +66,7 @@ PY="C:\Users\user\.workbuddy\binaries\python\envs\default\Scripts\python.exe"
 改 `slice_studio.default`（UTF-8，**不要**把中文路径写进 `.bat`，cmd 会按 ANSI 代码页读成乱码）：
 
 ```
-IMAGE=C:\Users\<你>\Desktop\泰坦军团详情页\G2783S.jpg   # 默认源图，可留空
+IMAGE=C:\Users\<你>\Desktop\长图.jpg   # 默认源图，可留空
 OUT=C:\Users\<你>\Desktop\切图                          # 输出根目录
 ```
 
