@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 预览块与上传暂存（临时产物，不进版本库）
+uploads/
+*.tmp
+*.log
