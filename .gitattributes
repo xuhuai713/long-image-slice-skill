@@ -1,0 +1,5 @@
+# 源码统一 LF；只有 Windows 启动器必须是 CRLF（否则 cmd 解析可能出错）
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
